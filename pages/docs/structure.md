@@ -1,4 +1,4 @@
-# Structure
+# Structure XX
 
 Just put all the Markdown files (`.md`, `.mdx`) under the `pages` directory. File system is the best way to organize your documentation:
 
